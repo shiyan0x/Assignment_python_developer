@@ -1,0 +1,28 @@
+[2026-04-20 18:41:59] === File Organizer Started ===
+[2026-04-20 18:41:59] Directory ensured: test_folder\images
+[2026-04-20 18:41:59] Directory ensured: test_folder\documents
+[2026-04-20 18:41:59] Directory ensured: test_folder\videos
+[2026-04-20 18:41:59] Directory ensured: test_folder\audios
+[2026-04-20 18:41:59] Directory ensured: test_folder\others
+[2026-04-20 18:41:59] Moved & renamed: 'auto_auto_dummy_file_0.txt' -> 'documents/auto_auto_dummy_file_0_20260420_184159.txt'
+[2026-04-20 18:41:59] Moved & renamed: 'auto_auto_dummy_file_1.jpg' -> 'images/auto_auto_dummy_file_1_20260420_184159.jpg'
+[2026-04-20 18:41:59] Moved & renamed: 'auto_auto_dummy_file_2.csv' -> 'documents/auto_auto_dummy_file_2_20260420_184159.csv'
+[2026-04-20 18:41:59] Moved & renamed: 'auto_auto_dummy_file_3.mp4' -> 'videos/auto_auto_dummy_file_3_20260420_184159.mp4'
+[2026-04-20 18:41:59] Moved & renamed: 'auto_auto_dummy_file_4.unknown' -> 'others/auto_auto_dummy_file_4_20260420_184159.unknown'
+[2026-04-20 18:41:59] Moved & renamed: 'auto_dummy_file_0.txt' -> 'documents/auto_dummy_file_0_20260420_184159.txt'
+[2026-04-20 18:41:59] Moved & renamed: 'auto_dummy_file_1.jpg' -> 'images/auto_dummy_file_1_20260420_184159.jpg'
+[2026-04-20 18:41:59] Moved & renamed: 'auto_dummy_file_2.csv' -> 'documents/auto_dummy_file_2_20260420_184159.csv'
+[2026-04-20 18:41:59] Moved & renamed: 'auto_dummy_file_3.mp4' -> 'videos/auto_dummy_file_3_20260420_184159.mp4'
+[2026-04-20 18:41:59] Moved & renamed: 'auto_dummy_file_4.unknown' -> 'others/auto_dummy_file_4_20260420_184159.unknown'
+[2026-04-20 18:41:59] Moved & renamed: 'auto_example_log.txt' -> 'documents/auto_example_log_20260420_184159.txt'
+[2026-04-20 18:41:59] Moved & renamed: 'auto_example_log_copy.txt' -> 'documents/auto_example_log_copy_20260420_184159.txt'
+[2026-04-20 18:41:59] Moved & renamed: 'example_log.txt' -> 'documents/example_log_20260420_184159.txt'
+[2026-04-20 18:41:59] Moved & renamed: 'example_log_copy.txt' -> 'documents/example_log_copy_20260420_184159.txt'
+[2026-04-20 18:41:59] === File Organizer Finished ===
+[2026-04-20 18:45:03] === File Organizer Started ===
+[2026-04-20 18:45:03] Directory ensured: test_folder\images
+[2026-04-20 18:45:03] Directory ensured: test_folder\documents
+[2026-04-20 18:45:03] Directory ensured: test_folder\videos
+[2026-04-20 18:45:03] Directory ensured: test_folder\audios
+[2026-04-20 18:45:03] Directory ensured: test_folder\others
+[2026-04-20 18:45:03] === File Organizer Finished ===
