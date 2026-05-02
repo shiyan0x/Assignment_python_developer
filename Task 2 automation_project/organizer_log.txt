@@ -26,3 +26,14 @@
 [2026-04-20 18:45:03] Directory ensured: test_folder\audios
 [2026-04-20 18:45:03] Directory ensured: test_folder\others
 [2026-04-20 18:45:03] === File Organizer Finished ===
+[2026-05-02 15:15:58] === File Organizer Started ===
+[2026-05-02 15:15:58] Directory ensured: test_folder\images
+[2026-05-02 15:15:58] Directory ensured: test_folder\documents
+[2026-05-02 15:15:58] Directory ensured: test_folder\videos
+[2026-05-02 15:15:58] Directory ensured: test_folder\audios
+[2026-05-02 15:15:58] Directory ensured: test_folder\others
+[2026-05-02 15:15:58] Moved & renamed: 'movie.mkv' -> 'videos/movie_20260502_151558.mkv'
+[2026-05-02 15:15:58] Moved & renamed: 'pic.png' -> 'images/pic_20260502_151558.png'
+[2026-05-02 15:15:58] Moved & renamed: 'sample1.txt' -> 'documents/sample1_20260502_151558.txt'
+[2026-05-02 15:15:58] Moved & renamed: 'unknown.xyz' -> 'others/unknown_20260502_151558.xyz'
+[2026-05-02 15:15:58] === File Organizer Finished ===

@@ -22,7 +22,7 @@ def log_action(message):
         f.write(log_entry)
 
 def rename_file(file_name):
-    # Renaming files by adding a timestamp prefix
+    # Renaming files by adding a timestamp suffix
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     name, ext = os.path.splitext(file_name)
     return f"{name}_{timestamp}{ext}"
@@ -71,7 +71,7 @@ def organize_files():
                 destination_folder = folder
                 break
 
-        # Rename the file with a timestamp prefix
+        # Rename the file with a timestamp suffix
         new_name = rename_file(file)
         target_path = os.path.join(folder_path, destination_folder, new_name)
 
